@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erikaangel111
+- 👋 Hi, I’m Erika Angel R
 - 👀 I’m interested in Graphic Design and Game Developer
 - 🌱 I’m currently learning developer Game in Unity, Roblox and Python to enhance my skills and bring innovative ideas to life.
 - 💞️ I’m looking to collaborate on exciting game projects that push the boundaries of creativity and storytelling.
